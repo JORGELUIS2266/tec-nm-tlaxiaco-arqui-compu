@@ -96,7 +96,7 @@
 14. ¿Cuál de los siguientes NO es un tipo de registro en el 8086?
 
 * [ ] a) General
-* [] b) Índice
+* [ ] b) Índice
 * [ ] c) Segmento
 * [x] d) Acumulador
 
